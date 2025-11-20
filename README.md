@@ -39,6 +39,9 @@ Bruges når:
 ### 10. Proxy
 Bruges når:
 * Adgang til et objekt skal kontrolleres.
+### 11. Flyweight
+Bruges når:
+* man vil reducere memory-forbrug og forbedre performance, hvis der findes meget mange objekter, som i høj grad deler de samme data.
 ####
 ## Behavioral Patterns (adfærd og samarbejde)
 ### 11. Strategy
